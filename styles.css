@@ -1,0 +1,50 @@
+body{
+  background-color: #393e46;
+  text-align: center;
+  font-family: 'Sacramento' , serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+
+h1{
+  font-size: 7rem;
+  color:#00bdaa;
+  font-family: 'Montserrat', serif;
+  margin-bottom: 60px;
+  margin-top: 0;
+}
+
+p{
+  color:#00bdaa;
+}
+
+.dice1{
+  font-size: 3rem;
+  float:left;
+  margin-left: 300px;
+}
+
+.dice2{
+  font-size: 3rem;
+  float:right;
+  margin-right: 300px;
+}
+
+a:hover{
+  color:#EAF6F6;
+}
+
+.img1{
+  height:400px;
+}
+
+.img2{
+  height:400px;
+}
+
+.one{
+  margin-top: 0;
+}
